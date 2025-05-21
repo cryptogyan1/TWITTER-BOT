@@ -4,7 +4,7 @@
   
   1. Create a project folder:
 ```bash
-mkdir twitter-tracker-bot && cd twitter-tracker-bot
+mkdir twitter-tracker-bot && cd twitter-tracker-bot && git clone https://github.com/0xStarLabs/TwitterAPI.git && cd TwitterAPI
 ```
 
 2. Initialize Node.js project:
